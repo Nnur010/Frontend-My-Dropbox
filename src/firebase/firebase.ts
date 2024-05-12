@@ -4,12 +4,12 @@ import { getFirestore, collection, doc, setDoc } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAh-r7SGFv8Kr0LXr306lWoqu6Dgj3QDK8",
-  authDomain: "nnur-dropbox.firebaseapp.com",
-  projectId: "nnur-dropbox",
-  storageBucket: "nnur-dropbox.appspot.com",
-  messagingSenderId: "71990192352",
-  appId: "1:71990192352:web:482e5bcac72feceef2c885"
+  apiKey: "null",
+  authDomain: "null",
+  projectId: "null",
+  storageBucket: "null",
+  messagingSenderId: "null",
+  appId: "null"
 };
 
 const app = initializeApp(firebaseConfig);
